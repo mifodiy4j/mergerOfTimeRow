@@ -1,4 +1,5 @@
-
+[![Build Status](https://travis-ci.org/mifodiy4j/mergerOfTimeRow.svg?branch=master)](https://travis-ci.org/mifodiy4j/mergerOfTimeRow)
+[![codecov](https://codecov.io/gh/mifodiy4j/mergerOfTimeRow/branch/master/graph/badge.svg)](https://codecov.io/gh/mifodiy4j/mergerOfTimeRow)
 
 # mergerOfTimeRow
 
